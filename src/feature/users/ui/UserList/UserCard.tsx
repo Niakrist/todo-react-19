@@ -6,10 +6,7 @@ type IUserCardProps = {
 
 export const UserCard = ({ user }: IUserCardProps) => {
   return (
-    <li
-      className='flex justify-between items-center border p-2 m-2 rounded bg-gray-100'
-      key={user.id}
-    >
+    <li className='flex justify-between items-center border p-2 m-2 rounded bg-gray-100'>
       {user.email}
 
       <button

@@ -1,4 +1,4 @@
-import type { UserType } from '../../../feature'
+import type { UserType } from '../../feature'
 
 export const fetchUsers = async (): Promise<UserType[]> => {
   try {
@@ -7,7 +7,7 @@ export const fetchUsers = async (): Promise<UserType[]> => {
       throw new Error(`HTTP error! status: ${response.status}`)
     }
     const data: UserType[] = await response.json()
-    return data
+    return data // [{ id: '1', email: '1@email.ru' }]
   } catch (error) {
     console.error('Failed to fetch users:', error)
     return []

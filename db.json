@@ -1,4 +1,17 @@
 {
   "tasks": [],
-  "users": []
+  "users": [
+    {
+      "id": "9b618910-7203-43d1-a417-3bd75ee2ee0d",
+      "email": "ddd@d.eu"
+    },
+    {
+      "id": "c5d160ec-8fb6-4386-b4f8-d4b6b81ca7e8",
+      "email": "test@mail.ru"
+    },
+    {
+      "id": "b2ac5886-62c6-462e-a958-7b70fddada3d",
+      "email": "test2@mail.ru"
+    }
+  ]
 }

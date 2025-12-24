@@ -21,7 +21,7 @@ export const UsersPage = () => {
       <UserForm refetchUsers={refetchUsers} />
       {/* В том месте где используется use надо обернуть в Suspense */}
       <Suspense fallback={<div>divdivdivdiv</div>}>
-        <UserList refetchUsers={refetchUsers} usersPromise={usersPromise} />
+        <UserList usersPromise={usersPromise} />
       </Suspense>
     </main>
   )

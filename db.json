@@ -2,36 +2,16 @@
   "tasks": [],
   "users": [
     {
-      "id": "9d05d6dc-973c-4cc6-a748-55ee45e7d439",
-      "email": "1@mail.u"
+      "id": "9b618910-7203-43d1-a417-3bd75ee2ee0d",
+      "email": "ddd@d.eu"
     },
     {
-      "id": "1c655aa5-66ee-4972-8a81-ef73775463ab",
-      "email": "2@mail.ru"
+      "id": "c5d160ec-8fb6-4386-b4f8-d4b6b81ca7e8",
+      "email": "test@mail.ru"
     },
     {
-      "id": "0f79ea75-70d7-4512-b38c-5807561595a7",
-      "email": "3@mail.ru"
-    },
-    {
-      "id": "94130205-64f3-465b-a91d-eacc869d8d13",
-      "email": "4@mail.ru"
-    },
-    {
-      "id": "da31c592-564c-41c7-abc8-0e807d0cc191",
-      "email": "5@mail.ru"
-    },
-    {
-      "id": "3295da2e-586b-4ed4-9e96-155500cae36e",
-      "email": "6@mail.ru"
-    },
-    {
-      "id": "6f5a2780-c135-40ff-9805-01d06ee05b7b",
-      "email": "7@mail.ru"
-    },
-    {
-      "id": "52cdcff5-8e43-4650-a5ad-c0e3371f53d0",
-      "email": "8@mail.ru"
+      "id": "b2ac5886-62c6-462e-a958-7b70fddada3d",
+      "email": "test2@mail.ru"
     }
   ]
 }
